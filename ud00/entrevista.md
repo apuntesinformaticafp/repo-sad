@@ -56,4 +56,4 @@ Esta actividad es formativa y no lleva nota: sirve para conocer tu punto de part
 
 ## Presentación
 
-El archivo de respuesta es `ud00/entrevista.md`. Sigue la práctica 0-B: revisa los cambios, crea tus commits y publícalos en tu repositorio privado. Cuando quieras presentar, crea y publica `practica-00-v1`. No necesitas adjuntar este archivo ni capturas en Moodle.
+El archivo de respuesta es `ud00/entrevista.md`. Sigue la práctica 0-B: revisa los cambios, crea tus commits y publícalos en tu repositorio privado. Cuando quieras presentar, crea y publica `practica-sad-00-v1`. No necesitas adjuntar este archivo ni capturas en Moodle.
