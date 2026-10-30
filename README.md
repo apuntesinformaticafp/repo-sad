@@ -1,13 +1,21 @@
-# Prácticas de Seguridad y alta disponibilidad
+# Seguridad y Alta Disponibilidad — Prácticas
 
-Repositorio distribuible del módulo SAD: `https://github.com/MI_USER/repo-sad`.
-`MI_USER` es provisional hasta confirmar la cuenta. El repo ya contiene la
-entrevista formativa `ud00/` y las prácticas del módulo en `udNN/`.
+Materiales y actividades del módulo SAD.
 
-En cada unidad encontrarás `enunciado.md` y `rubrica.md`. Crea tu propio
-`practica.md` en el mismo directorio y preséntalo desde tu repositorio privado
-mediante la etiqueta indicada en el enunciado.
+Consulta los [apuntes y materiales del módulo SAD](https://www.apuntesinformaticafp.com/modulos/sad.html).
 
-Trabaja en un repositorio privado independiente, con `origin` apuntando al tuyo
-y `upstream` a este repositorio. No crees un fork ni uses una plantilla.
-Sigue la [preparación común 0-B](https://www.apuntesinformaticafp.com/actividades/preparacion/repositorio-practicas.html).
+## Contenido
+
+- **ud00/**: [entrevista inicial](ud00/entrevista.md) para conocer tu punto de partida.
+- **ud1/**: análisis inicial de seguridad de AulaFP.
+  - [Enunciado](ud1/enunciado.md).
+  - [Rúbrica de autoevaluación](ud1/rubrica.md).
+
+## Cómo trabajar
+
+Realiza las actividades en tu repositorio privado de prácticas.
+Este repositorio contiene los materiales del docente, no tus entregas.
+
+Para preparar tu repositorio, sigue la
+[práctica 0-B](https://www.apuntesinformaticafp.com/actividades/preparacion/repositorio-practicas.html).
+Después, consulta las instrucciones de cada actividad.
