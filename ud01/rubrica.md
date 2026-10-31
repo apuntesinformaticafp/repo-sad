@@ -24,7 +24,7 @@ independiente ni generan una segunda nota por el mismo contenido.
 
 ## Comprueba antes de entregar
 
-- `ud1/practica.md` incluye los cinco apartados y las tablas de la plantilla.
+- `ud01/practica.md` incluye los cinco apartados y las tablas de la plantilla.
 - El inventario recoge los activos del caso, agrupando los equivalentes, y cubre
   información, equipos, servicios, personas y dependencias.
 - Has analizado tres activos y tres riesgos ordenados, incluyendo riesgo físico

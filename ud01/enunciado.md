@@ -111,7 +111,7 @@ actividades de respuesta ante acceso no autorizado y conservación de informaci�
 
 ## Cómo presentar el trabajo
 
-En `ud1/` encontrarás `enunciado.md` y [rubrica.md](rubrica.md). Consúltalos antes
+En `ud01/` encontrarás `enunciado.md` y [rubrica.md](rubrica.md). Consúltalos antes
 de empezar. Crea en **ese mismo directorio** `practica.md` con la plantilla que
 aparece a continuación. No renombres ni edites los dos documentos del docente.
 
@@ -124,7 +124,7 @@ aparece a continuación. No renombres ni edites los dos documentos del docente.
   identifícala. Que una medida no esté documentada no demuestra que no exista.
 - Revisa que activos, riesgos, permisos y medidas sean coherentes entre sí.
 
-Registra `ud1/practica.md` en Git y publica la rama en tu repositorio privado.
+Registra `ud01/practica.md` en Git y publica la rama en tu repositorio privado.
 Sobre el commit que presentas crea y publica la etiqueta **`practica-sad-01-v1`**.
 Es esa versión la que se corrige. Sigue el procedimiento de la
 [práctica 0-B](https://www.apuntesinformaticafp.com/actividades/preparacion/repositorio-practicas.html).
@@ -134,7 +134,7 @@ otro aviso por práctica: la etiqueta publicada señala la presentación.
 
 ## Plantilla para tu archivo practica.md
 
-Copia el contenido del siguiente bloque en `ud1/practica.md`. Las filas vacías
+Copia el contenido del siguiente bloque en `ud01/practica.md`. Las filas vacías
 son espacios para completar, no ejemplos de solución.
 
 ```markdown

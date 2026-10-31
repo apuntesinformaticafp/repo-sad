@@ -7,9 +7,9 @@ Consulta los [apuntes y materiales del módulo SAD](https://www.apuntesinformati
 ## Contenido
 
 - **ud00/**: [entrevista inicial](ud00/entrevista.md) para conocer tu punto de partida.
-- **ud1/**: análisis inicial de seguridad de AulaFP.
-  - [Enunciado](ud1/enunciado.md).
-  - [Rúbrica de autoevaluación](ud1/rubrica.md).
+- **ud01/**: análisis inicial de seguridad de AulaFP.
+  - [Enunciado](ud01/enunciado.md).
+  - [Rúbrica de autoevaluación](ud01/rubrica.md).
 
 ## Cómo trabajar
 
