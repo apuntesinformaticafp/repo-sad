@@ -8,7 +8,7 @@ inicial de seguridad.
 
 Trabaja con el [caso AulaFP](https://www.apuntesinformaticafp.com/actividades/sad/caso_aulafp.html)
 y los ejemplos de [Fundamentos, riesgos y respuesta inicial](https://www.apuntesinformaticafp.com/cursos/fundamentos_seguridad.html).
-La dedicación orientativa es de **entre una y dos horas**. No necesitas instalar
+La dedicación orientativa es de **entre dos y tres horas**. No necesitas instalar
 herramientas, configurar sistemas ni investigar recursos adicionales.
 
 ## 1. Inventario y propiedades de seguridad
