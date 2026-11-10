@@ -1,0 +1,8 @@
+{
+  "name": "SAD — Seguridad y alta dispoñibilidade",
+  "build": {
+    "dockerfile": "Dockerfile",
+    "context": ".."
+  },
+  "postCreateCommand": "bash .devcontainer/comprueba-entorno.sh"
+}
